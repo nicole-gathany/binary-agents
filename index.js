@@ -1,0 +1,1 @@
+console.log("html and javascript are connected")
